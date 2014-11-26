@@ -8,7 +8,7 @@ function main()
     ##  1. Calibration
 
     aalpha = 1/3     # Elasticity of output w.r.t. capital
-    bbeta  = 0.95    # Discount factor
+    bbeta  = 0.4    # Discount factor
 
     # Productivity values
     vProductivity = [0.9792 0.9896 1.0000 1.0106 1.0212]
